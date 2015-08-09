@@ -1,0 +1,1 @@
+# Parse-Swift-PFQueryTableViewController-Sectioned
